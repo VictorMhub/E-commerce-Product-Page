@@ -1,10 +1,10 @@
-
+import HomePage from "./pages/HomePage"
 function App() {
   
 
   return (
     <section>
-      <h1>hello world</h1>
+      <HomePage/>
     </section>
   )
 }
